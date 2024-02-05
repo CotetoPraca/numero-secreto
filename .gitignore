@@ -1,2 +1,3 @@
 # Ignora a pasta temp
 temp/
+*.log
